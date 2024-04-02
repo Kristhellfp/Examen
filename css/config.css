@@ -1,0 +1,114 @@
+.padre{
+    display: flex;
+    flex-direction: column;
+    width: 70rem;
+    height: 50rem;
+    gap: 2rem;
+
+}
+
+.hijo{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-size: 2rem;
+}
+
+.cuadro1{
+    height: 5rem;
+    width: 7rem;
+    background-color: aquamarine;
+    float: left;
+    margin-right: 10px;
+    border-radius: 15%;
+  
+}
+
+.cuadro2{
+    height: 5rem;
+    width: 7rem;
+    background-color: paleturquoise;
+    float: left;
+    margin-right: 10px;
+    border-radius: 15%;
+   
+}
+
+.cuadro3{
+    height: 5rem;
+    width: 7rem;
+    background-color: rgb(156, 97, 176);
+    float: left;
+    margin-right: 10px;
+    border-radius: 15%;
+}
+
+.cuadro4{
+    height: 5rem;
+    width: 15rem;
+    background-color: rgb(105, 130, 240);
+    border-radius: 15%;
+    margin-right: 10px;
+    margin-top: 5px;
+}
+
+.cuadro5{
+    height: 5rem;
+    width: 15rem;
+    background-color: lightcoral;
+    margin-right: 10px;
+    border-radius: 15%;
+    float: left;
+    margin-right: 10px;
+    margin-top: 5px;
+}
+
+.cuadro6{
+    height: 12rem;
+    width: 4rem;
+    background-color: gray;
+    margin-right: 10px;
+    border-radius: 5%;
+    float: left;
+    margin-right: 10px;
+}
+
+.cuadro7{
+    height: 12rem;
+    width: 4rem;
+    background-color: gray;
+    margin-right: 10px;
+    border-radius: 5%;
+    float: left;
+    margin-right: 10px;
+}
+
+.cuadro8{
+    height: 12rem;
+    width: 4rem;
+    background-color: gray;
+    margin-right: 10px;
+    border-radius: 5%;
+    float: left;
+    margin-right: 10px;
+}
+
+.cuadro9{
+    height: 12rem;
+    width: 4rem;
+    background-color: gray;
+    margin-right: 10px;
+    border-radius: 5%;
+    float: left;
+    margin-right: 10px;
+}
+
+.cuadro10{
+    height: 12rem;
+    width: 4rem;
+    background-color: gray;
+    margin-right: 10px;
+    border-radius: 5%;
+    float: left;
+    margin-right: 10px;
+}
